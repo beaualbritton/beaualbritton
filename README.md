@@ -5,7 +5,7 @@
 
 
 
-website soon
+[direc-tuit public beta](https://www.direc-tuit.com/)
 
 
 
